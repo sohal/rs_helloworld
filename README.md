@@ -1,4 +1,5 @@
 [![Rust](https://github.com/sohal/rs_helloworld/actions/workflows/rust.yml/badge.svg)](https://github.com/sohal/rs_helloworld/actions/workflows/rust.yml)
+[![Coverage](https://github.com/sohal/rs_helloworld/actions/workflows/grcov.yml/badge.svg)](https://github.com/sohal/rs_helloworld/actions/workflows/grcov.yml)
 # rs_helloworld
 
 A project to demonstrate my learnings on Rust
