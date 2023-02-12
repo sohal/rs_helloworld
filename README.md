@@ -1,4 +1,4 @@
-![build workflow](https://github.com/sohal/rs_helloworld/tree/main/.github/workflows/rust.yml/badge.svg)
+[![Rust](https://github.com/sohal/rs_helloworld/actions/workflows/rust.yml/badge.svg)](https://github.com/sohal/rs_helloworld/actions/workflows/rust.yml)
 # rs_helloworld
 
 A project to demonstrate my learnings on Rust
