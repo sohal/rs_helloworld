@@ -1,3 +1,4 @@
+![build workflow](https://github.com/sohal/rs_helloworld/tree/main/.github/workflows/rust.yml/badge.svg)
 # rs_helloworld
 
 A project to demonstrate my learnings on Rust
